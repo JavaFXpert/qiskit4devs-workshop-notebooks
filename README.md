@@ -18,7 +18,10 @@ This guided exercise is an introduction to creating a single-wire quantum circui
 This guided exercise introduces the Hadamard gate, quantum superpositions, probability amplitudes, and measurement probabilities. It also serves as a gentle introduction to Dirac notation.
 
 #### [Multi-qubit quantum circuits](./multi_qubit_circuits.ipynb)
-This guided exercise builds on the previous one by creating circuits with multiple qubits, and examining their quantum state vectors. It also demonstrates how quantums states may be visualized.
+This guided exercise builds on the previous one by creating circuits with multiple qubits, and examining their quantum state vectors. It also demonstrates how quantum states may be visualized.
+
+#### [Entangling qubits with a CNOT gate](./entangling_qubits.ipynb)
+This guided exercise introduces the idea of quantum entanglement, and explores the four Bell states.
 
 ## Troubleshooting Guide
 Here are some common issues and their resolutions
